@@ -50,7 +50,7 @@ h2 {
     outline: none;
 }
 
-.form-control button {
+button {
     background: #3498db;
     cursor: pointer;
     color: #fff;

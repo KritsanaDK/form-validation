@@ -37,9 +37,7 @@ const FormCompoments = () => {
                     <small>error message</small>
                 </div>
 
-                <div className='form-control'>
-                    <button type='submit'>ลงทะเบียน</button>
-                </div>
+                <button type='submit'>ลงทะเบียน</button>
 
 
 
